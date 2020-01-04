@@ -16,8 +16,12 @@ function detailsController($scope, $routeParams, $http, $location, databaseServi
   $http({
     method: 'GET',
     url: `data/descriptions/${$scope.locationId}.md`
-  }).then(result => {
+  })
+  .then(result => {
     $scope.description = result.data;
+  })
+  .catch(e => {
+    $scope.description = `*Description could not be loaded. Error code: ${e.status}*`;
   });
 };
 
