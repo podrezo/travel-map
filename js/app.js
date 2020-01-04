@@ -3,7 +3,10 @@ import detailsController from './controllers/details.js';
 import databaseService from './services/db.js';
 import flagDirective from './directives/flag.js';
 import friendlyCoordsDirective from './directives/friendly-coords.js';
-const module = angular.module('travelMap', ['ngRoute']);
+const module = angular.module('travelMap', [
+  'ngRoute', // angular routing
+  'ng-showdown' // convert markdown to HTML for descriptions
+]);
 
 module.service('databaseService', databaseService);
 module.controller('detailsController', detailsController);
