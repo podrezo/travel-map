@@ -34,6 +34,40 @@
         "icon": "bigcity"
       },
       "id": "auckland"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9416549,
+          22.424398,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Santa Clara",
+        "countryCode": "CU",
+        "icon": "bigcity"
+      },
+      "id": "santa-clara"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1885293,
+          23.179858,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Varadero",
+        "countryCode": "CU",
+        "icon": "smallcity"
+      },
+      "id": "varadero"
     }
   ]
 }

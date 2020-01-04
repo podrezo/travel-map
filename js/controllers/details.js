@@ -21,7 +21,11 @@ function detailsController($scope, $routeParams, $http, $location, databaseServi
     $scope.description = result.data;
   })
   .catch(e => {
-    $scope.description = `*Description could not be loaded. Error code: ${e.status}*`;
+    if (e.status === 404) {
+      $scope.description = `*No description was provided.*`;
+    } else {
+      $scope.description = `*Description could not be loaded. Error code: ${e.status}*`;
+    }
   });
 };
 
