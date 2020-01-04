@@ -1,0 +1,18 @@
+import countryData from '../../data/country-codes.js';
+
+function detailsController($scope, $routeParams, $location, databaseService) {
+  $scope.locationId = $routeParams.locationId;
+  $scope.$emit('open-panel');
+  $scope.toggleDetailsPanel = function() {
+    $scope.$emit('close-panel');
+  };
+  // $scope.$on('db-loaded', () => {
+  //   $location.reload();
+  // });
+  databaseService.data().then(data => {
+    $scope.place = data.features.find(feature => feature.id == $scope.locationId);
+    $scope.country = countryData.find(country => country['alpha-2'] == $scope.place.properties.countryCode);
+  });
+};
+
+export default detailsController;

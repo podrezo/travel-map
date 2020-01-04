@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Toronto",
+        "countryCode": "CA",
+        "icon": "home-2"
+      },
+      "id": "toronto"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<button type="button" class="close" aria-label="Close"  ng-click="toggleDetailsPanel()">
+  <span aria-hidden="true">&times;</span>
+</button>
+<!-- <img class="mb-4" src="img/logo.png" alt="" width="128" height="128"> -->
+
+<h1 class="h3 mb-3 font-weight-normal">
+  {{ place.properties.name }}
+</h1>
+
+<table class="table table-borderless text-left">
+  <tbody>
+    <tr>
+      <th scope="row">Country</th>
+      <td>{{ country.name }}</td>
+    </tr>
+    <tr>
+      <th scope="row">Country's flag</th>
+      <td><span flag country-code="place.properties.countryCode" size="48"></span></td>
+    </tr>
+    <tr>
+      <th scope="row">Region</th>
+      <td>{{ country['sub-region'] }}, {{ country.region }}</td>
+    </tr>
+    <tr>
+      <th scope="row">Coordinates</th>
+      <td><span friendly-coords lng="{{place.geometry.coordinates[0]}}" lat="{{place.geometry.coordinates[1]}}"></span></td>
+    </tr>
+    <tr>
+      <th scope="row">Coordinates (float)</th>
+      <td>{{ place.geometry.coordinates[1] }}, {{ place.geometry.coordinates[0] }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="mt-5 mb-3 text-muted">Created by Petro Podrezo</p>

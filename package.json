@@ -1,0 +1,8 @@
+{
+  "name": "wonderfulworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "wonderfulworld.podrezo.com",
+  "author": "Petro Podrezo <petro@podrezo.com>",
+  "license": "MIT"
+}
