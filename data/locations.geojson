@@ -17,6 +17,24 @@
         "icon": "home-2"
       },
       "id": "toronto"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7633315,
+          -36.8484597,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Auckland",
+        "countryCode": "NZ",
+        "icon": "bigcity"
+      },
+      "id": "auckland"
     }
   ]
 }
+
