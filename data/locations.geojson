@@ -1234,9 +1234,9 @@
       },
       "properties": {
         "name": "Vatican City",
-        "countryCode": "IT"
+        "countryCode": "VA"
       },
-      "id": "it_vatican_city"
+      "id": "va_vatican_city"
     },
     {
       "type": "Feature",
