@@ -620,10 +620,10 @@
         "coordinates": [30.536667, 50.444885, null]
       },
       "properties": {
-        "name": "Kiev",
+        "name": "Kyiv",
         "countryCode": "UA"
       },
-      "id": "ua_kiev"
+      "id": "ua_kyiv"
     },
     {
       "type": "Feature",
