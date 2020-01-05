@@ -39,7 +39,7 @@ module.run(function($rootScope) {
     .container(document.getElementById('map').appendChild(po.svg('svg')))
     .zoomRange([0, 9])
     .zoom(3)
-    .add(po.image().url('http://s3.amazonaws.com/com.modestmaps.bluemarble/{Z}-r{Y}-c{X}.jpg'))
+    .add(po.image().url('https://s3.amazonaws.com/com.modestmaps.bluemarble/{Z}-r{Y}-c{X}.jpg'))
     .add(po.interact())
     .add(po.compass().pan('none'));
 });
