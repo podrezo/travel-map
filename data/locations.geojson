@@ -1,74 +1,1746 @@
 {
   "type": "FeatureCollection",
-  "features": [
+  "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.13158, 47.67858, null]
+      },
+      "properties": {
+        "name": "Redmond",
+        "countryCode": "US"
+      },
+      "id": "us_redmond"
+    },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3831843,
-          43.653226,
-          null
-        ]
+        "coordinates": [-80.04095, 43.633373, null]
+      },
+      "properties": {
+        "name": "Acton",
+        "countryCode": "CA"
+      },
+      "id": "ca_acton"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.51478, 38.04298, null]
+      },
+      "properties": {
+        "name": "Shijiazhuang",
+        "countryCode": "CN"
+      },
+      "id": "cn_shijiazhuang"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.66235, -45.03106, null]
+      },
+      "properties": {
+        "name": "Queenstown",
+        "countryCode": "NZ"
+      },
+      "id": "nz_queenstown"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.02862, 49.84075, null]
+      },
+      "properties": {
+        "name": "Lviv",
+        "countryCode": "UA"
+      },
+      "id": "ua_lviv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.80803, 49.02505, null]
+      },
+      "properties": {
+        "name": "White Rock",
+        "countryCode": "CA"
+      },
+      "id": "ca_white_rock"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.11672, 49.2808, null]
+      },
+      "properties": {
+        "name": "Vancouver",
+        "countryCode": "CA"
+      },
+      "id": "ca_vancouver"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.01579, 44.5208, null]
+      },
+      "properties": {
+        "name": "Wasaga Beach",
+        "countryCode": "CA"
+      },
+      "id": "ca_wasaga_beach"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.09897, -45.1296, null]
+      },
+      "properties": {
+        "name": "Ranfurly",
+        "countryCode": "NZ"
+      },
+      "id": "nz_ranfurly"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.33324, 47.607243, null]
+      },
+      "properties": {
+        "name": "Seattle",
+        "countryCode": "US"
+      },
+      "id": "us_seattle"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.57167, 37.00439, null]
+      },
+      "properties": {
+        "name": "Gilroy",
+        "countryCode": "US"
+      },
+      "id": "us_gilroy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.16771, 40.73504, null]
+      },
+      "properties": {
+        "name": "Newark",
+        "countryCode": "US"
+      },
+      "id": "us_newark"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.9977, 45.43419, null]
+      },
+      "properties": {
+        "name": "Verona",
+        "countryCode": "IT"
+      },
+      "id": "it_verona"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [176.25145, -38.136536, null]
+      },
+      "properties": {
+        "name": "Rotorua",
+        "countryCode": "NZ"
+      },
+      "id": "nz_rotorua"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.36086, 25.274548, null]
+      },
+      "properties": {
+        "name": "Dubai",
+        "countryCode": "AE"
+      },
+      "id": "ae_dubai"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.39452, 39.909336, null]
+      },
+      "properties": {
+        "name": "Beijing",
+        "countryCode": "CN"
+      },
+      "id": "cn_beijing"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [176.07594, -38.689762, null]
+      },
+      "properties": {
+        "name": "Taupo",
+        "countryCode": "NZ"
+      },
+      "id": "nz_taupo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.50368, -45.874115, null]
+      },
+      "properties": {
+        "name": "Dunedin",
+        "countryCode": "NZ"
+      },
+      "id": "nz_dunedin"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [169.39133, -45.253193, null]
+      },
+      "properties": {
+        "name": "Alexandra",
+        "countryCode": "NZ"
+      },
+      "id": "nz_alexandra"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.63718, -43.532024, null]
+      },
+      "properties": {
+        "name": "Christchurch",
+        "countryCode": "NZ"
+      },
+      "id": "nz_christchurch"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.65947, 47.59721, null]
+      },
+      "properties": {
+        "name": "Leavenworth",
+        "countryCode": "US"
+      },
+      "id": "us_leavenworth"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.76526, 29.55207, null]
+      },
+      "properties": {
+        "name": "Leshan",
+        "countryCode": "CN"
+      },
+      "id": "cn_leshan"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.42978, 43.68157, null]
+      },
+      "properties": {
+        "name": "Elora",
+        "countryCode": "CA"
+      },
+      "id": "ca_elora"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.55361, 47.82033, null]
+      },
+      "properties": {
+        "name": "Index",
+        "countryCode": "US"
+      },
+      "id": "us_index"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.34813, 46.519417, null]
+      },
+      "properties": {
+        "name": "Sault Ste. Marie",
+        "countryCode": "CA"
+      },
+      "id": "ca_sault_ste__marie"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.94641, 48.88982, null]
+      },
+      "properties": {
+        "name": "Glacier",
+        "countryCode": "US"
+      },
+      "id": "us_glacier"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.485565, 43.446617, null]
+      },
+      "properties": {
+        "name": "Kitchener",
+        "countryCode": "CA"
+      },
+      "id": "ca_kitchener"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.43251, 41.80559, null]
+      },
+      "properties": {
+        "name": "Shenyang",
+        "countryCode": "CN"
+      },
+      "id": "cn_shenyang"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4585, 44.0402, null]
+      },
+      "properties": {
+        "name": "Newmarket",
+        "countryCode": "CA"
+      },
+      "id": "ca_newmarket"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.92314, 45.97499, null]
+      },
+      "properties": {
+        "name": "Manitowaning",
+        "countryCode": "CA"
+      },
+      "id": "ca_manitowaning"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.034164, 45.350597, null]
+      },
+      "properties": {
+        "name": "Parry Sound",
+        "countryCode": "CA"
+      },
+      "id": "ca_parry_sound"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.86287, 43.871483, null]
+      },
+      "properties": {
+        "name": "Caledon",
+        "countryCode": "CA"
+      },
+      "id": "ca_caledon"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.94261, 44.56487, null]
+      },
+      "properties": {
+        "name": "Owen Sound",
+        "countryCode": "CA"
+      },
+      "id": "ca_owen_sound"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.45121, 44.00704, null]
+      },
+      "properties": {
+        "name": "Aurora",
+        "countryCode": "CA"
+      },
+      "id": "ca_aurora"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.37856, 43.848015, null]
+      },
+      "properties": {
+        "name": "Richmond Hill",
+        "countryCode": "CA"
+      },
+      "id": "ca_richmond_hill"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.85901, 45.421707, null]
+      },
+      "properties": {
+        "name": "Algonquin Provincial Park",
+        "countryCode": "CA"
+      },
+      "id": "ca_algonquin_provincial_park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.75654, 43.31248, null]
+      },
+      "properties": {
+        "name": "Grand Bend",
+        "countryCode": "CA"
+      },
+      "id": "ca_grand_bend"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.26496, 48.99957, null]
+      },
+      "properties": {
+        "name": "Sumas",
+        "countryCode": "US"
+      },
+      "id": "us_sumas"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.25744, 48.381863, null]
+      },
+      "properties": {
+        "name": "Thunder Bay",
+        "countryCode": "CA"
+      },
+      "id": "ca_thunder_bay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.66509, 45.25383, null]
+      },
+      "properties": {
+        "name": "Tobermory",
+        "countryCode": "CA"
+      },
+      "id": "ca_tobermory"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.69763, 47.85549, null]
+      },
+      "properties": {
+        "name": "Gold Bar",
+        "countryCode": "US"
+      },
+      "id": "us_gold_bar"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38554, 43.64381, null]
       },
       "properties": {
         "name": "Toronto",
         "countryCode": "CA",
         "icon": "home-2"
       },
-      "id": "toronto"
+      "id": "ca_toronto"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          174.7633315,
-          -36.8484597,
-          null
-        ]
+        "coordinates": [-79.24814, 43.15937, null]
+      },
+      "properties": {
+        "name": "St. Catharines",
+        "countryCode": "CA"
+      },
+      "id": "ca_st__catharines"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.991135, 46.490406, null]
+      },
+      "properties": {
+        "name": "Sudbury",
+        "countryCode": "CA"
+      },
+      "id": "ca_sudbury"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.98165, 43.372154, null]
+      },
+      "properties": {
+        "name": "Stratford",
+        "countryCode": "CA"
+      },
+      "id": "ca_stratford"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.06415, 45.27344, null]
+      },
+      "properties": {
+        "name": "Saint John",
+        "countryCode": "CA"
+      },
+      "id": "ca_saint_john"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.46606, 45.91654, null]
+      },
+      "properties": {
+        "name": "Gore Bay",
+        "countryCode": "CA"
+      },
+      "id": "ca_gore_bay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.44164, 47.25514, null]
+      },
+      "properties": {
+        "name": "Tacoma",
+        "countryCode": "US"
+      },
+      "id": "us_tacoma"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.16079, 37.44466, null]
+      },
+      "properties": {
+        "name": "Palo Alto",
+        "countryCode": "US"
+      },
+      "id": "us_palo_alto"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.811021, 45.765614, null]
+      },
+      "properties": {
+        "name": "Malcesine",
+        "countryCode": "IT"
+      },
+      "id": "it_malcesine"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.83162, -44.93876, null]
+      },
+      "properties": {
+        "name": "Arrowtown",
+        "countryCode": "NZ"
+      },
+      "id": "nz_arrowtown"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.536667, 50.444885, null]
+      },
+      "properties": {
+        "name": "Kiev",
+        "countryCode": "UA"
+      },
+      "id": "ua_kiev"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.218, 45.32656, null]
+      },
+      "properties": {
+        "name": "Huntsville",
+        "countryCode": "CA"
+      },
+      "id": "ca_huntsville"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.143974, 64.258316, null]
+      },
+      "properties": {
+        "name": "Thingvellir",
+        "countryCode": "IS"
+      },
+      "id": "is_thingvellir"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76529, -36.87216, null]
       },
       "properties": {
         "name": "Auckland",
         "countryCode": "NZ",
         "icon": "bigcity"
       },
-      "id": "auckland"
+      "id": "nz_auckland"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.9416549,
-          22.424398,
-          null
-        ]
+        "coordinates": [-20.73227, 64.21512, null]
+      },
+      "properties": {
+        "name": "Laugarvatn",
+        "countryCode": "IS"
+      },
+      "id": "is_laugarvatn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.92442, 36.55444, null]
+      },
+      "properties": {
+        "name": "Carmel",
+        "countryCode": "US"
+      },
+      "id": "us_carmel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.47974, 49.760853, null]
+      },
+      "properties": {
+        "name": "Kenora",
+        "countryCode": "CA"
+      },
+      "id": "ca_kenora"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.63911, 45.96063, null]
+      },
+      "properties": {
+        "name": "Fredericton",
+        "countryCode": "CA"
+      },
+      "id": "ca_fredericton"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.074, 50.62654, null]
+      },
+      "properties": {
+        "name": "Radium Hot Springs",
+        "countryCode": "CA"
+      },
+      "id": "ca_radium_hot_springs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.13828, 49.879974, null]
+      },
+      "properties": {
+        "name": "Winnipeg",
+        "countryCode": "CA"
+      },
+      "id": "ca_winnipeg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3195, 44.30593, null]
+      },
+      "properties": {
+        "name": "Peterborough",
+        "countryCode": "CA"
+      },
+      "id": "ca_peterborough"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.858, 43.889935, null]
+      },
+      "properties": {
+        "name": "Oshawa",
+        "countryCode": "CA"
+      },
+      "id": "ca_oshawa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.68875, 43.46558, null]
+      },
+      "properties": {
+        "name": "Oakville",
+        "countryCode": "CA"
+      },
+      "id": "ca_oakville"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.87546, 42.875916, null]
+      },
+      "properties": {
+        "name": "Buffalo",
+        "countryCode": "US"
+      },
+      "id": "us_buffalo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.695625, 45.422794, null]
+      },
+      "properties": {
+        "name": "Ottawa",
+        "countryCode": "CA"
+      },
+      "id": "ca_ottawa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.560036, 45.508022, null]
+      },
+      "properties": {
+        "name": "Montreal",
+        "countryCode": "CA"
+      },
+      "id": "ca_montreal"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.096654, 51.51924, null]
+      },
+      "properties": {
+        "name": "London",
+        "countryCode": "GB"
+      },
+      "id": "gb_london"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.18785, 47.61003, null]
+      },
+      "properties": {
+        "name": "Bellevue",
+        "countryCode": "US"
+      },
+      "id": "us_bellevue"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.35737, 47.71193, null]
+      },
+      "properties": {
+        "name": "Skykomish",
+        "countryCode": "US"
+      },
+      "id": "us_skykomish"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.00157, 33.67889, null]
+      },
+      "properties": {
+        "name": "Huntington Beach",
+        "countryCode": "US"
+      },
+      "id": "us_huntington_beach"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.740924, 47.55753, null]
+      },
+      "properties": {
+        "name": "Hohenschwangau",
+        "countryCode": "DE"
+      },
+      "id": "de_hohenschwangau"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.596855, 43.784763, null]
+      },
+      "properties": {
+        "name": "Woodbridge",
+        "countryCode": "CA"
+      },
+      "id": "ca_woodbridge"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2126, 46.81336, null]
+      },
+      "properties": {
+        "name": "Quebec City",
+        "countryCode": "CA"
+      },
+      "id": "ca_quebec_city"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.57753, 48.13641, null]
+      },
+      "properties": {
+        "name": "Munich",
+        "countryCode": "DE"
+      },
+      "id": "de_munich"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.20593, 47.9766, null]
+      },
+      "properties": {
+        "name": "Everett",
+        "countryCode": "US"
+      },
+      "id": "us_everett"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99036, 40.69246, null]
+      },
+      "properties": {
+        "name": "Brooklyn",
+        "countryCode": "US"
+      },
+      "id": "us_brooklyn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.32885, 49.05158, null]
+      },
+      "properties": {
+        "name": "Abbotsford",
+        "countryCode": "CA"
+      },
+      "id": "ca_abbotsford"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349401, 48.857037, null]
+      },
+      "properties": {
+        "name": "Paris",
+        "countryCode": "FR"
+      },
+      "id": "fr_paris"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.329185, 43.859077, null]
+      },
+      "properties": {
+        "name": "Markham",
+        "countryCode": "CA"
+      },
+      "id": "ca_markham"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.55418, 64.00167, null]
+      },
+      "properties": {
+        "name": "Keflavik",
+        "countryCode": "IS"
+      },
+      "id": "is_keflavik"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.24946, 48.838528, null]
+      },
+      "properties": {
+        "name": "North Cascades National Park",
+        "countryCode": "US"
+      },
+      "id": "us_north_cascades_national_park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.89, 52.37, null]
+      },
+      "properties": {
+        "name": "Amsterdam",
+        "countryCode": "NL"
+      },
+      "id": "nl_amsterdam"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.07489, 49.32108, null]
+      },
+      "properties": {
+        "name": "North Vancouver",
+        "countryCode": "CA"
+      },
+      "id": "ca_north_vancouver"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.24555, 43.548733, null]
+      },
+      "properties": {
+        "name": "Guelph",
+        "countryCode": "CA"
+      },
+      "id": "ca_guelph"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.93506, 42.90548, null]
+      },
+      "properties": {
+        "name": "Fort Erie",
+        "countryCode": "CA"
+      },
+      "id": "ca_fort_erie"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.792601, 45.814022, null]
+      },
+      "properties": {
+        "name": "Limone sul Garda",
+        "countryCode": "IT"
+      },
+      "id": "it_limone_sul_garda"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.477074, 47.857037, null]
+      },
+      "properties": {
+        "name": "Geretsried",
+        "countryCode": "DE"
+      },
+      "id": "de_geretsried"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.49229, 34.01157, null]
+      },
+      "properties": {
+        "name": "Santa Monica",
+        "countryCode": "US"
+      },
+      "id": "us_santa_monica"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.720742, 45.182846, null]
+      },
+      "properties": {
+        "name": "Grenoble",
+        "countryCode": "FR"
+      },
+      "id": "fr_grenoble"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.47122, 48.75235, null]
+      },
+      "properties": {
+        "name": "Bellingham",
+        "countryCode": "US"
+      },
+      "id": "us_bellingham"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.48445, 29.60108, null]
+      },
+      "properties": {
+        "name": "Emeishan",
+        "countryCode": "CN"
+      },
+      "id": "cn_emeishan"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3822, 44.16571, null]
+      },
+      "properties": {
+        "name": "Belleville",
+        "countryCode": "CA"
+      },
+      "id": "ca_belleville"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.688385, 44.392113, null]
+      },
+      "properties": {
+        "name": "Barrie",
+        "countryCode": "CA"
+      },
+      "id": "ca_barrie"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.768745, 43.691265, null]
+      },
+      "properties": {
+        "name": "Brampton",
+        "countryCode": "CA"
+      },
+      "id": "ca_brampton"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.54503, 46.34018, null]
+      },
+      "properties": {
+        "name": "Trois-Rivieres",
+        "countryCode": "CA"
+      },
+      "id": "ca_trois_rivieres"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.39441, 47.264565, null]
+      },
+      "properties": {
+        "name": "Innsbruck",
+        "countryCode": "AT"
+      },
+      "id": "at_innsbruck"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.41819, 44.60868, null]
+      },
+      "properties": {
+        "name": "Orillia",
+        "countryCode": "CA"
+      },
+      "id": "ca_orillia"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.74888, 48.99405, null]
+      },
+      "properties": {
+        "name": "Blaine",
+        "countryCode": "US"
+      },
+      "id": "us_blaine"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41579, 37.778934, null]
+      },
+      "properties": {
+        "name": "San Francisco",
+        "countryCode": "US"
+      },
+      "id": "us_san_francisco"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.129356, 46.2369, null]
+      },
+      "properties": {
+        "name": "Charlottetown",
+        "countryCode": "CA"
+      },
+      "id": "ca_charlottetown"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.84711, 35.36692, null]
+      },
+      "properties": {
+        "name": "Morro Bay",
+        "countryCode": "US"
+      },
+      "id": "us_morro_bay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.454423, 41.902363, null]
+      },
+      "properties": {
+        "name": "Vatican City",
+        "countryCode": "IT"
+      },
+      "id": "it_vatican_city"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.80287, 21.14967, null]
+      },
+      "properties": {
+        "name": "Cancun",
+        "countryCode": "MX"
+      },
+      "id": "mx_cancun"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.52076, 43.46339, null]
+      },
+      "properties": {
+        "name": "Waterloo",
+        "countryCode": "CA"
+      },
+      "id": "ca_waterloo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.85295, -45.360634, null]
+      },
+      "properties": {
+        "name": "Moeraki",
+        "countryCode": "NZ"
+      },
+      "id": "nz_moeraki"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.539856, 47.836777, null]
+      },
+      "properties": {
+        "name": "Riviere du Loup",
+        "countryCode": "CA"
+      },
+      "id": "ca_riviere_du_loup"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.351959, 50.849632, null]
+      },
+      "properties": {
+        "name": "Brussels",
+        "countryCode": "BE"
+      },
+      "id": "be_brussels"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-19.00831, 63.4197, null]
+      },
+      "properties": {
+        "name": "Vik",
+        "countryCode": "IS"
+      },
+      "id": "is_vik"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.365982, 24.469482, null]
+      },
+      "properties": {
+        "name": "Abu Dhabi",
+        "countryCode": "AE"
+      },
+      "id": "ae_abu_dhabi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.70021, 47.570576, null]
+      },
+      "properties": {
+        "name": "Fussen",
+        "countryCode": "DE"
+      },
+      "id": "de_fussen"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.92538, 45.9794, null]
+      },
+      "properties": {
+        "name": "Little Current",
+        "countryCode": "CA"
+      },
+      "id": "ca_little_current"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.54127, 37.861076, null]
+      },
+      "properties": {
+        "name": "Yosemite National Park",
+        "countryCode": "US"
+      },
+      "id": "us_yosemite_national_park"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.933647, 64.148, null]
+      },
+      "properties": {
+        "name": "Reykjavik",
+        "countryCode": "IS"
+      },
+      "id": "is_reykjavik"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.495978, 41.893623, null]
+      },
+      "properties": {
+        "name": "Rome",
+        "countryCode": "IT"
+      },
+      "id": "it_rome"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.574856, 44.646557, null]
+      },
+      "properties": {
+        "name": "Halifax",
+        "countryCode": "CA"
+      },
+      "id": "ca_halifax"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.23284, 34.05106, null]
+      },
+      "properties": {
+        "name": "Los Angeles",
+        "countryCode": "US"
+      },
+      "id": "us_los_angeles"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.231337, 41.767464, null]
+      },
+      "properties": {
+        "name": "Fiumicino",
+        "countryCode": "IT"
+      },
+      "id": "it_fiumicino"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.96504, 22.40787, null]
       },
       "properties": {
         "name": "Santa Clara",
-        "countryCode": "CU",
-        "icon": "bigcity"
+        "countryCode": "CU"
       },
-      "id": "santa-clara"
+      "id": "cu_santa_clara"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -81.1885293,
-          23.179858,
-          null
-        ]
+        "coordinates": [6.14569, 46.20222, null]
+      },
+      "properties": {
+        "name": "Geneva",
+        "countryCode": "CH"
+      },
+      "id": "ch_geneva"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.25162, -44.39455, null]
+      },
+      "properties": {
+        "name": "Timaru",
+        "countryCode": "NZ"
+      },
+      "id": "nz_timaru"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.87686, 20.848064, null]
+      },
+      "properties": {
+        "name": "Puerto Morelos",
+        "countryCode": "MX"
+      },
+      "id": "mx_puerto_morelos"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1889, 23.180395, null]
       },
       "properties": {
         "name": "Varadero",
-        "countryCode": "CU",
-        "icon": "smallcity"
+        "countryCode": "CU"
       },
-      "id": "varadero"
+      "id": "cu_varadero"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.82583, 33.68724, null]
+      },
+      "properties": {
+        "name": "Irvine",
+        "countryCode": "US"
+      },
+      "id": "us_irvine"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.83374, 49.69384, null]
+      },
+      "properties": {
+        "name": "Lethbridge",
+        "countryCode": "CA"
+      },
+      "id": "ca_lethbridge"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.01302, 45.563087, null]
+      },
+      "properties": {
+        "name": "South Baymouth",
+        "countryCode": "CA"
+      },
+      "id": "ca_south_baymouth"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.142784, 45.74195, null]
+      },
+      "properties": {
+        "name": "Mindemoya",
+        "countryCode": "CA"
+      },
+      "id": "ca_mindemoya"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.00584, 40.713238, null]
+      },
+      "properties": {
+        "name": "New York City",
+        "countryCode": "US"
+      },
+      "id": "us_new_york_city"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.67809, 50.04107, null]
+      },
+      "properties": {
+        "name": "Medicine Hat",
+        "countryCode": "CA"
+      },
+      "id": "ca_medicine_hat"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.62287, 50.45677, null]
+      },
+      "properties": {
+        "name": "Regina",
+        "countryCode": "CA"
+      },
+      "id": "ca_regina"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.89539, 43.26217, null]
+      },
+      "properties": {
+        "name": "Hamilton",
+        "countryCode": "CA"
+      },
+      "id": "ca_hamilton"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.32698, 49.04554, null]
+      },
+      "properties": {
+        "name": "Clearbrook",
+        "countryCode": "CA"
+      },
+      "id": "ca_clearbrook"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.27545, 45.91249, null]
+      },
+      "properties": {
+        "name": "Kagawong",
+        "countryCode": "CA"
+      },
+      "id": "ca_kagawong"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.169576, 41.385597, null]
+      },
+      "properties": {
+        "name": "Barcelona",
+        "countryCode": "ES"
+      },
+      "id": "es_barcelona"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.50857, 45.047115, null]
+      },
+      "properties": {
+        "name": "Haliburton",
+        "countryCode": "CA"
+      },
+      "id": "ca_haliburton"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.96826, -43.803658, null]
+      },
+      "properties": {
+        "name": "Akaroa",
+        "countryCode": "NZ"
+      },
+      "id": "nz_akaroa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.08463, 52.88069, null]
+      },
+      "properties": {
+        "name": "Jasper",
+        "countryCode": "CA"
+      },
+      "id": "ca_jasper"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.10649, -38.260963, null]
+      },
+      "properties": {
+        "name": "Waitomo Caves",
+        "countryCode": "NZ"
+      },
+      "id": "nz_waitomo_caves"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.17862, 51.4267, null]
+      },
+      "properties": {
+        "name": "Lake Louise",
+        "countryCode": "CA"
+      },
+      "id": "ca_lake_louise"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.571, 51.176468, null]
+      },
+      "properties": {
+        "name": "Banff",
+        "countryCode": "CA"
+      },
+      "id": "ca_banff"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.07173, 51.05011, null]
+      },
+      "properties": {
+        "name": "Calgary",
+        "countryCode": "CA"
+      },
+      "id": "ca_calgary"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.592384, 43.59208, null]
+      },
+      "properties": {
+        "name": "Mississauga",
+        "countryCode": "CA"
+      },
+      "id": "ca_mississauga"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.2442, 42.988914, null]
+      },
+      "properties": {
+        "name": "London",
+        "countryCode": "CA"
+      },
+      "id": "ca_london"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.07091, 43.101624, null]
+      },
+      "properties": {
+        "name": "Niagara Falls",
+        "countryCode": "CA"
+      },
+      "id": "ca_niagara_falls"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.481064, 44.231728, null]
+      },
+      "properties": {
+        "name": "Kingston",
+        "countryCode": "CA"
+      },
+      "id": "ca_kingston"
     }
   ]
 }
-

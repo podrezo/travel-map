@@ -8,7 +8,7 @@ function makeMarkerFunction(po, markerClickedCallback) {
       var f = e.features[i],
         c = f.element,
         g = f.element = po.svg('image');
-      g.setAttributeNS(po.ns.xlink, 'href', `img/markers/${f.data.properties.icon || 'bigcity'}.png`);
+      g.setAttributeNS(po.ns.xlink, 'href', `img/markers/${f.data.properties.icon || 'comment-map-icon'}.png`);
       g.setAttribute('width', 32);
       g.setAttribute('height', 37);
       g.setAttribute('x', -16);
