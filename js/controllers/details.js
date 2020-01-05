@@ -1,4 +1,4 @@
-import countryData from '../../data/country-codes.js';
+import countryData from '../../data/countries.js';
 
 function detailsController($scope, $routeParams, $http, $location, databaseService) {
   $scope.locationId = $routeParams.locationId;
