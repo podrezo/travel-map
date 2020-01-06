@@ -1,10 +1,6 @@
 import makeMarkerFunction from '../marker.js';
 
 function mainController($scope, $location, $http, $rootScope, databaseService) {
-  // $scope.$on('marker-clicked', (e, marker) => {
-  //   console.log(marker);
-  //   $scope.detailsPanelOpen = true;
-  // });
   $scope.modalOpen = true;
   $scope.$on('open-panel', () => {
     $scope.detailsPanelOpen = true;

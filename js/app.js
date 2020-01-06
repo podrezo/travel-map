@@ -20,15 +20,11 @@ function config($routeProvider) {
     when('/locations', {
       template: ''
     }).
-    when('/about', {
-      controller: 'detailsController',
-      templateUrl: 'templates/about.html'
-    }).
     when('/location/:locationId', {
       controller: 'detailsController',
       templateUrl: 'templates/location_details.html'
     }).
-    otherwise('/about');
+    otherwise('/locations');
 }
 ]);
 

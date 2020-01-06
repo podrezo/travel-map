@@ -56,7 +56,6 @@ function databaseService($http, $rootScope, $q) {
         $rootScope.$broadcast('db-loaded', dbCache);
         // calculate stats and cache them
         $rootScope.travelStats = getStats(dbCache.features);
-        console.log($rootScope.travelStats);
         deferred.resolve(dbCache);
       }, function errorCallback(response) {
         alert('Could not load the static database file. Please refresh the page and try again.');
