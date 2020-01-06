@@ -35,8 +35,6 @@ html, body {
 }
 
 #map {
-  /* background-color: magenta;
-  padding: 2em 1em; */
   width: 100%;
   height: 100%;
   z-index: 0;

@@ -1,8 +1,6 @@
 // extension for polymaps to convert markers from a black dot into something more interesting
 // returns a *function* that will do the conversion, based on options provided
 function makeMarkerFunction(po, markerClickedCallback) {
-  // opts:
-  // clickable [bool]: Whether or not the marker can be clicked, which will link to that place
   var replaceMarker = function(e) {
     for (var i = 0; i < e.features.length; i++) {
       var f = e.features[i],
