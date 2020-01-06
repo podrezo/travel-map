@@ -5,6 +5,7 @@ function mainController($scope, $location, $http, $rootScope, databaseService) {
   //   console.log(marker);
   //   $scope.detailsPanelOpen = true;
   // });
+  $scope.modalOpen = true;
   $scope.$on('open-panel', () => {
     $scope.detailsPanelOpen = true;
   });
@@ -15,6 +16,9 @@ function mainController($scope, $location, $http, $rootScope, databaseService) {
   $scope.toggleDetailsPanel = function() {
     $scope.detailsPanelOpen = !$scope.detailsPanelOpen;
   };
+  $scope.toggleModal = function() {
+    $scope.modalOpen = !$scope.modalOpen;
+  }
   databaseService.data().then(data => {
     $rootScope.map.add(po.geoJson().features(data.features).on("load", makeMarkerFunction(po, markerClickedHandler)));
   })

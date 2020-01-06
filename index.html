@@ -21,6 +21,17 @@
 </head>
 
 <body ng-app="travelMap" ng-controller="mainController">
+  <div id="overlay" ng-class="{'modal-closed': !modalOpen}">
+    <div id="modal">
+      <button type="button" class="close" aria-label="Close"  ng-click="toggleModal()">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <h1>Petro's Travel Map</h1>
+      <p>Hi there, I'm Petro and I love to travel. This map will show you all the places I've been around the world. In total, by my count, I've visited <strong>{{travelStats.continents.count}} continents, {{travelStats.regions.count}} regions, {{travelStats.countries.count}} countries, and {{travelStats.cities.count}} cities</strong>. Enjoy exploring the map!</p>
+      <p>This website is open-source and if you'd like to clone this website and customize it for your own I'd be quite honored; visit <a href="https://github.com/podrezo/travel-map" target="_blank">GitHub</a> and make a fork.</p>
+      <p>You can see more about me at my <a href="https://podrezo.com/" target="_blank">homepage</a> or read about my travels in my <a href="https://journeyman.podrezo.com/" target="_blank">blog</a>. Want to chat? <a href="https://twitter.com/podrezo" target="_blank">Tweet me</a>.</p>
+    </div>
+  </div>
   <div id="map"></div>
   <div id="details"
     class="text-center"
