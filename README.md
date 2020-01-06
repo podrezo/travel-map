@@ -4,7 +4,7 @@ This project is a travel map that displays places I've been around the world, fo
 
 ## How do I clone this?
 
-Simply make a fork and edit the parts you want. The project is intended to be hosted at the root of a subdomain, but I tried to use relative pathing as much as possible to make it easy to adapt for serving it at a non-root path. The main things you'll want to change are the hero image `img/hero.jpg` and the "about me" text in `index.html`, as well as the actual database of locations `data/locations.geojson` and any specific images and descriptions in the `data/descriptions` directory.
+Simply make a fork and edit the parts you want. The project is intended to be hosted at the root of a subdomain, but I tried to use relative pathing as much as possible to make it easy to adapt for serving it at a non-root path. The main things you'll want to change are the hero image `img/hero.jpg` and the "about me" text in `index.html`, as well as the actual database of locations `data/locations.geojson` and any specific images and descriptions in the `data/descriptions` directory. All I ask is that you please attribute me on the website somewhere in a visible place.
 
 ## Tech behind the project
 
