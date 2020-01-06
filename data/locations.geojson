@@ -1741,6 +1741,235 @@
         "countryCode": "CA"
       },
       "id": "ca_kingston"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066, null]
+      },
+      "properties": {
+        "name": "Berlin",
+        "countryCode": "DE"
+      },
+      "id": "de_berlin"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9354623, 30.6587488, null]
+      },
+      "properties": {
+        "name": "Chengdu",
+        "countryCode": "CN"
+      },
+      "id": "cn_chengdu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.9398017, 18.471215, null]
+      },
+      "properties": {
+        "name": "Montego Bay",
+        "countryCode": "JM"
+      },
+      "id": "jm_montego_bay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2524094, 44.5029742, null]
+      },
+      "properties": {
+        "name": "Collingwood",
+        "countryCode": "CA"
+      },
+      "id": "ca_collingwood"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1342137, 44.7167993, null]
+      },
+      "properties": {
+        "name": "Tiny",
+        "countryCode": "CA"
+      },
+      "id": "ca_tiny"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4388837, 44.8886996, null]
+      },
+      "properties": {
+        "name": "Gravenhurst",
+        "countryCode": "CA"
+      },
+      "id": "ca_gravenhurst"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3369721, 45.0475835, null]
+      },
+      "properties": {
+        "name": "Bracebridge",
+        "countryCode": "CA"
+      },
+      "id": "ca_bracebridge"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.520618, 46.332612, null]
+      },
+      "properties": {
+        "name": "North Bay",
+        "countryCode": "CA"
+      },
+      "id": "ca_north_bay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.7453951, 47.4935902, null]
+      },
+      "properties": {
+        "name": "Temiskaming Shores",
+        "countryCode": "CA"
+      },
+      "id": "ca_temiskaming_shores"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4958032, 47.592065, null]
+      },
+      "properties": {
+        "name": "Notre-Dame-du-Nord",
+        "countryCode": "CA"
+      },
+      "id": "ca_notre_dame_du_nord"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3229258, 47.6627516, null]
+      },
+      "properties": {
+        "name": "Guerin",
+        "countryCode": "CA"
+      },
+      "id": "ca_guerin"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4293567, 48.1380445, null]
+      },
+      "properties": {
+        "name": "Rouyn-Noranda",
+        "countryCode": "CA"
+      },
+      "id": "ca_rouyn_noranda"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.7600696, 48.5056221, null]
+      },
+      "properties": {
+        "name": "Parc national d'Aiguebelle",
+        "countryCode": "CA"
+      },
+      "id": "ca_aiguebelle"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4808796, 47.3313658, null]
+      },
+      "properties": {
+        "name": "Ville-Marie",
+        "countryCode": "CA"
+      },
+      "id": "ca_ville_marie"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.1906002, 46.8464093, null]
+      },
+      "properties": {
+        "name": "Parc national d'Opémican",
+        "countryCode": "CA"
+      },
+      "id": "ca_opemican"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.1007254, 46.7181963, null]
+      },
+      "properties": {
+        "name": "Temiscaming",
+        "countryCode": "CA"
+      },
+      "id": "ca_temiscaming"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.5894964, 45.5618936, null]
+      },
+      "properties": {
+        "name": "Algonquin Provincial Park",
+        "countryCode": "CA"
+      },
+      "id": "ca_algonquin"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.1839268, 44.3318001, null]
+      },
+      "properties": {
+        "name": "Gananoque",
+        "countryCode": "CA"
+      },
+      "id": "ca_gananoque"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.65767, 45.5197072, null]
+      },
+      "properties": {
+        "name": "Vankleek Hill",
+        "countryCode": "CA"
+      },
+      "id": "ca_vankleek_hill"
     }
   ]
 }
+
