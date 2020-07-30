@@ -1969,6 +1969,102 @@
         "countryCode": "CA"
       },
       "id": "ca_vankleek_hill"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.7533023, 48.1753406, null]
+      },
+      "properties": {
+        "name": "Tadoussac",
+        "countryCode": "CA"
+      },
+      "id": "ca_tadoussac"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.8745333, 47.8232877, null]
+      },
+      "properties": {
+        "name": "Saint-Siméon",
+        "countryCode": "CA"
+      },
+      "id": "ca_saint_simeon"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.2736974, 48.378383, null]
+      },
+      "properties": {
+        "name": "Saguenay",
+        "countryCode": "CA"
+      },
+      "id": "ca_saguenay"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.2217609, 48.5189153, null]
+      },
+      "properties": {
+        "name": "Roberval",
+        "countryCode": "CA"
+      },
+      "id": "ca_roberval"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.876743, 48.6799577, null]
+      },
+      "properties": {
+        "name": "Pointe-Taillon National Park",
+        "countryCode": "CA"
+      },
+      "id": "ca_pointe_taillon"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.8684478, 49.7840446, null]
+      },
+      "properties": {
+        "name": "Chapais",
+        "countryCode": "CA"
+      },
+      "id": "ca_chapais"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8577373, 47.9944078, null]
+      },
+      "properties": {
+        "name": "Val-d'Or",
+        "countryCode": "CA"
+      },
+      "id": "ca_valdor"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9880195, 49.0582361, null]
+      },
+      "properties": {
+        "name": "Plage Municipale de Lebel-sur-Quévillon",
+        "countryCode": "CA"
+      },
+      "id": "ca_quevillon"
     }
   ]
 }
