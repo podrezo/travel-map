@@ -1978,7 +1978,8 @@
       },
       "properties": {
         "name": "Tadoussac",
-        "countryCode": "CA"
+        "countryCode": "CA",
+        "icon": "shore-2"
       },
       "id": "ca_tadoussac"
     },
