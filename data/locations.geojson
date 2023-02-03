@@ -2078,6 +2078,90 @@
         "countryCode": "DO"
       },
       "id": "do_samana"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.7188156, 43.7378566, null]
+      },
+      "properties": {
+        "name": "Goderich",
+        "countryCode": "CA"
+      },
+      "id": "ca_goderich"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.7195741, 43.8767424, null]
+      },
+      "properties": {
+        "name": "Port Albert",
+        "countryCode": "CA"
+      },
+      "id": "ca_port_albert"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6444958, 44.1708826, null]
+      },
+      "properties": {
+        "name": "Kincardine",
+        "countryCode": "CA"
+      },
+      "id": "ca_kincardine"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2131512, 42.7917123, null]
+      },
+      "properties": {
+        "name": "Port Dover",
+        "countryCode": "CA"
+      },
+      "id": "ca_port_dover"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4372711, 42.579197, null]
+      },
+      "properties": {
+        "name": "Long Point",
+        "countryCode": "CA"
+      },
+      "id": "ca_long_point"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.413845, 43.0344081, null]
+      },
+      "properties": {
+        "name": "Sarnia",
+        "countryCode": "CA"
+      },
+      "id": "ca_sarnia"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1484667, 43.2544842, null]
+      },
+      "properties": {
+        "name": "Saint Marys",
+        "countryCode": "CA"
+      },
+      "id": "ca_st_marys"
     }
   ]
 }
