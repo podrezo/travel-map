@@ -2066,7 +2066,18 @@
         "countryCode": "CA"
       },
       "id": "ca_quevillon"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.5849744, 19.3055845, null]
+      },
+      "properties": {
+        "name": "Las Terrenas, Samaná",
+        "countryCode": "DO"
+      },
+      "id": "do_samana"
     }
   ]
 }
-
